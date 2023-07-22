@@ -1,0 +1,5 @@
+今日任务
+1、学习了解数学相关的api。
+2、学习数组工具类Arrays。
+3、学习随机数Randon类。
+4、学习StringBuilder和StringBuffer。
